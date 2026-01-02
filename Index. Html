@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="https://i.imgur.com/KvEuBiI.png">
+        <h1>Veeneshwari R</h1>
+        <p>Web Developer | Designer | Data Scientist | Game Designer | Tech Enthusiast</p>
+    </header>
+    <section id="bio">
+        <h2>About Me</h2>
+       <p> I am Veeneshwari.R from West Tambaram</p>
+        <p> I completed My schooling at G.M.H.S.S at west tambaram and completed my college at S.D.N.B.V.C at Chrompet with the course of B.sc DS & AI</p>
+
+    </section>
+    <section id="work">
+        <h2>My Work</h2>
+        <div class="project" id="I completed many project in my college days like developing webpage,app development,and power BI project">Project 1</div>
+        <div class="Skills" id="I completed 1000+ courses in linkedin and I also completed courses in coursera which helps to build my strong carrer">Project 2</div>
+        <div class="Technical skill" id="I am Strong in Python,Java, Css,Html,C++ and C">Project 3</div>
+    </section>
+    <footer>
+        <p>Contact me at veeneshwari@gmail.com</p>
+    </footer>
+</body>
+</html>
