@@ -17,9 +17,9 @@
     </section>
     <section id="work">
         <h2>My Work</h2>
-        <div class="project" id="I completed many project in my college days like developing webpage,app development,and power BI project">Project 1</div>
-        <div class="Skills" id="I completed 1000+ courses in linkedin and I also completed courses in coursera which helps to build my strong carrer">Project 2</div>
-        <div class="Technical skill" id="I am Strong in Python,Java, Css,Html,C++ and C">Project 3</div>
+        <div class="project" id="project">Web Development</div>
+        <div class="project 2" id="project 2">App Development</div>
+        <div class="project 3" id="project 3">Game Designing</div>
     </section>
     <footer>
         <p>Contact me at veeneshwari@gmail.com</p>
